@@ -44,11 +44,6 @@ Total reviews analysed: 22,641.
 | Negative | 1,455 | 6.43% |
 | Total | 22,641 | 100% |
 
-## 7. Project Files
-- Customer_Feedback_Intelligence.ipynb – Complete Python notebook.
-- Customer_Feedback_Analysis_Final.csv – Analysed customer reviews.
-- Sentiment_Summary.csv – Sentiment summary.
-- requirements.txt – Required Python libraries.
 
 ## 8. Limitations
 This project uses keyword-based sentiment analysis. It has basic negation handling but cannot fully understand context, sarcasm or complex language.
